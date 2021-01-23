@@ -1,9 +1,16 @@
 import './App.css';
+import Header from "./components/Header";
 
 function App() {
   return (
     <div className="app">
-      <h1> test page </h1>
+      {/* Header */}
+        <Header/>
+
+
+
+      {/* items=> snapping */}
+    
     </div>
   );
 }
