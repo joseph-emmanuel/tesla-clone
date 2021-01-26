@@ -36,3 +36,7 @@
 .header_right > p {
   margin: 10px;
 }
+
+.header {
+  font-size: 15px;
+}

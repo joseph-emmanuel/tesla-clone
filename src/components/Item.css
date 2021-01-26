@@ -19,7 +19,7 @@
   margin-top: 20%;
   display: flex;
   flex-direction: column;
-  font-size: 34px;
+  font-size: 24px;
   color: #393c41;
   align-items: center;
   flex: 1;
@@ -42,4 +42,5 @@
   width: 100%;
   margin-top: 3%;
   justify-content: center;
+  margin-left: 250px;
 }

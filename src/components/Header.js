@@ -8,21 +8,21 @@ function Header() {
     return (
         <div className="header">
             <div className="header_logo">
-            <IconButton><img src={TeslaLogo} alt='tesla logo'/></IconButton>
+             <img src={TeslaLogo} alt='tesla logo'/> 
             </div>
             <div className="header_center">
-                <p><IconButton>Model S</IconButton></p>
-                <p><IconButton>Model 3</IconButton></p>
-                <p><IconButton>Model X</IconButton></p>
-                <p><IconButton>Model Y</IconButton></p>
-                <p><IconButton>Solar Roof</IconButton></p>
-                <p><IconButton>Solar Panel</IconButton></p>
+                <p> Model S</p>
+                <p> Model 3 </p>
+                <p> Model X </p>
+                <p> Model Y </p>
+                <p> Solar Roof </p>
+                <p> Solar Panel </p>
             </div>
             <div className="header_right">
-                <p><IconButton>Shop</IconButton></p>
-                <p><IconButton>Tesla Account</IconButton></p>
+                <p> Shop </p>
+                <p> Tesla Account </p>
                 <p>
-                    <IconButton><ListIcon/></IconButton></p>
+                     <ListIcon/> </p>
 
             </div>
         </div>
