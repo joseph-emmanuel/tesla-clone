@@ -40,6 +40,16 @@ function App() {
               rightBtnTxt='EXISTING INVENTORY'
               rightBtnLink=''
               twoButtons='true'/>
+              <Item
+              title="Model 3"
+              desc="Order Online for Touchless Delivery"
+              descLink=''
+              backgroundImg={Model3}
+              leftBtnTxt='CUSTOM ORDER'
+              leftBtnLink=''
+              rightBtnTxt='EXISTING INVENTORY'
+              rightBtnLink=''
+              twoButtons='true'/>
                <Item
               title="Model X"
               desc=" Order Online for Touchless Delivery"
@@ -76,7 +86,7 @@ function App() {
               title="Accessories"
               desc=""
               descLink=''
-              backgroundImg={SolarRoofs}
+              backgroundImg={Accessories}
               leftBtnTxt='CUSTOM ORDER'
               leftBtnLink=''
               rightBtnTxt='LEARN MORE'
