@@ -9,6 +9,9 @@
   margin-top: 15px;
   z-index: 100;
 }
+.header > IconButton {
+  color: black;
+}
 
 .header_logo {
   height: 24px;
@@ -24,6 +27,7 @@
   display: flex;
   justify-content: flex-end;
   text-transform: uppercase;
+  padding-right: 40px;
 }
 .header_center > p {
   margin: 10px;
